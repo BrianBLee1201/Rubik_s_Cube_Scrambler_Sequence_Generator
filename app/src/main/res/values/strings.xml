@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rubik\'s Cube App for Scrambler</string>
+    <string-array name="mode_select">
+        <item>2x2</item>
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+        <item>9x9</item>
+        <item>10x10</item>
+        <item>11x11</item>
+        <item>12x12</item>
+        <item>13x13</item>
+        <item>14x14</item>
+        <item>15x15</item>
+        <item>16x16</item>
+        <item>17x17</item>
+    </string-array>
+    <string-array name="difficulty_select">
+        <item>easy</item>
+        <item>normal</item>
+        <item>hard</item>
+    </string-array>
+</resources>
